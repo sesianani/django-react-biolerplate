@@ -77,9 +77,9 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-- **Billie Thompson** - _Initial work_ - [PurpleBooth](https://github.com/PurpleBooth)
+- [**Selasie Anani**](https://github.com/sesianani)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/sesianani/django-react-biolerplate/contributors) who participated in this project.
 
 ## License
 
