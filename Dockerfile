@@ -15,13 +15,6 @@ RUN pip install -r requirements.txt
 
 COPY . /code/
 
-# RUN cd /code/frontend 
-
-# RUN npm install
-# RUN npm run build
-
-# RUN cd ../code
-
 EXPOSE 8000
 
 CMD ["python", "manage.py", "runserver", "0.0.0.0:8000"]
